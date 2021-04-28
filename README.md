@@ -54,6 +54,8 @@ You can download OpenEthereum's latest release at [the releases page](https://gi
 
 ### 3.1 Build Dependencies <a id="chapter-0031"></a>
 
+#### NOTE: USE RUST V1.46
+
 OpenEthereum requires **latest stable Rust version** to build.
 
 We recommend installing Rust through [rustup](https://www.rustup.rs/). If you don't already have `rustup`, you can install it like this:
